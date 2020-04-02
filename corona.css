@@ -1,0 +1,34 @@
+@media (min-width: 0px) {
+    .corona-icon {
+        box-sizing: border-box;
+        width: 17%;
+        text-align: center;
+    }
+
+    .main-corona-banner {
+        box-sizing: border-box;
+        width: 29%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1024px) {
+    .corona-icon {
+        width: 49%;
+    }
+
+    .main-corona-banner {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .corona-icon {
+        width: 100%;
+    }
+
+    .main-corona-banner {
+        width: 100%;
+    }
+}
+
